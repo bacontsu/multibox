@@ -1,2 +1,2 @@
-# bacontsu
-bruh i dunno what i need to write here
+# Read Me!
+im currently working on Growtopia multibox by : https://github.com/Blacklock/gtautofarmer 
