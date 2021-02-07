@@ -1,6 +1,6 @@
 # Growtopia Multiboxing
-this project is based on : https://github.com/Blacklock/gtautofarmer 
-and : https://github.com/rvknth043/Global-Low-Level-Key-Board-And-Mouse-Hook
+this project is based on https://github.com/Blacklock/gtautofarmer 
+and https://github.com/rvknth043/Global-Low-Level-Key-Board-And-Mouse-Hook
 
 Basically i "fixed"-ish blacklock's multiboxing
 
