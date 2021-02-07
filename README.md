@@ -1,12 +1,14 @@
-# Growtopia Multiboxing
+# 𝙂𝙧𝙤𝙬𝙩𝙤𝙥𝙞𝙖 𝙈𝙪𝙡𝙩𝙞𝙗𝙤𝙭𝙞𝙣𝙜
+
+![image](https://user-images.githubusercontent.com/62763382/107159088-95098b00-69c0-11eb-9430-54fce3a15e4f.png)
+
+
+
 this project is based on https://github.com/Blacklock/gtautofarmer 
 and https://github.com/rvknth043/Global-Low-Level-Key-Board-And-Mouse-Hook
 
-Basically i "fixed"-ish blacklock's multiboxing
  
- 
-𝗡𝗼𝘄 𝘆𝗼𝘂 𝗺𝗮𝘆𝗯𝗲 𝗮𝘀𝗸 𝗵𝗼𝘄 𝗱𝗶𝗱 𝗶 "𝗳𝗶𝘅" 𝗶𝘁?
-
+# Now you maybe ask how did i "fix" it?
 well first of all i disabled the KeyboardHook since it was unnecessary for me, then fixed the active/deactive button aswell as adding hotkeys. simple stuff but useful (for me)
 
 
