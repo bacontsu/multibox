@@ -6,3 +6,6 @@ Basically i "fixed"-ish blacklock's multiboxing
 
 Now you maybe ask how did i fix it?
 well first of all i disabled the KeyboardHook since it was unnecessary for me, then just added fancy stuff over it lol
+
+
+if its not working Run as Administrator
