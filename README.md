@@ -1,4 +1,4 @@
-# 𝙂𝙧𝙤𝙬𝙩𝙤𝙥𝙞𝙖 𝙈𝙪𝙡𝙩𝙞𝙗𝙤𝙭𝙞𝙣𝙜
+# Growtopia Multiboxing
 
 ![image](https://user-images.githubusercontent.com/62763382/107159088-95098b00-69c0-11eb-9430-54fce3a15e4f.png)
 
