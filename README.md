@@ -1,7 +1,7 @@
 # 𝙂𝙧𝙤𝙬𝙩𝙤𝙥𝙞𝙖 𝙈𝙪𝙡𝙩𝙞𝙗𝙤𝙭𝙞𝙣𝙜
 
 ![image](https://user-images.githubusercontent.com/62763382/107159088-95098b00-69c0-11eb-9430-54fce3a15e4f.png)
-
+(this is the public version, the newest one have dark-theme ui aswell as app logo. didnt sure when will i upload it)
 
 
 this project is based on https://github.com/Blacklock/gtautofarmer 
