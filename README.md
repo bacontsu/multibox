@@ -13,5 +13,5 @@ and https://github.com/rvknth043/Global-Low-Level-Key-Board-And-Mouse-Hook
 well first of all i disabled the KeyboardHook since it was unnecessary for me, then fixed the active/deactive button aswell as adding hotkeys. simple stuff but useful (for me)
 
 
-𝙉𝙤𝙩𝙚 : 𝙞𝙛 𝙞𝙩𝙨 𝙣𝙤𝙩 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙍𝙪𝙣 𝙖𝙨 𝘼𝙙𝙢𝙞𝙣𝙞𝙨𝙩𝙧𝙖𝙩𝙤𝙧 𝙨𝙤𝙢𝙚𝙩𝙞𝙢𝙚𝙨 𝙝𝙚𝙡𝙥𝙨 𝙮𝙤𝙪
+𝙉𝙤𝙩𝙚 : 𝙞𝙛 𝙞𝙩𝙨 𝙣𝙤𝙩 𝙬𝙤𝙧𝙠𝙞𝙣𝙜, 𝙍𝙪𝙣 𝙖𝙨 𝘼𝙙𝙢𝙞𝙣𝙞𝙨𝙩𝙧𝙖𝙩𝙤𝙧 𝙨𝙤𝙢𝙚𝙩𝙞𝙢𝙚𝙨 𝙝𝙚𝙡𝙥𝙨 𝙮𝙤𝙪
 
