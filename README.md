@@ -9,7 +9,7 @@ this project is based on https://github.com/Blacklock/gtautofarmer
 and https://github.com/rvknth043/Global-Low-Level-Key-Board-And-Mouse-Hook
 
  
-# Now you maybe ask how did i "fix" it?
+### Now you maybe ask how did i "fix" it?
 well first of all i disabled the KeyboardHook since it was unnecessary for me, then fixed the active/deactive button aswell as adding hotkeys. simple stuff but useful (for me)
 
 
