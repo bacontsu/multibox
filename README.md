@@ -4,6 +4,8 @@
 
 (this is the public version, the newest one have dark-theme ui aswell as app logo. didnt sure when will i upload it)
 
+Fully Open Source Multiboxing Program because the accusations of me putting stealer inside.
+
 
 this project is based on https://github.com/Blacklock/gtautofarmer 
 and https://github.com/rvknth043/Global-Low-Level-Key-Board-And-Mouse-Hook
