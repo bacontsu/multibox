@@ -1,0 +1,10 @@
+C:\Users\fikri\Downloads\gtautofarmer-multiboxing\gtautofarmer-multiboxing\Autofarmer\bin\Debug\Autofarmer.exe.config
+C:\Users\fikri\Downloads\gtautofarmer-multiboxing\gtautofarmer-multiboxing\Autofarmer\bin\Debug\Autofarmer.exe
+C:\Users\fikri\Downloads\gtautofarmer-multiboxing\gtautofarmer-multiboxing\Autofarmer\bin\Debug\Autofarmer.pdb
+C:\Users\fikri\Downloads\gtautofarmer-multiboxing\gtautofarmer-multiboxing\Autofarmer\obj\Debug\Autofarmer.csprojAssemblyReference.cache
+C:\Users\fikri\Downloads\gtautofarmer-multiboxing\gtautofarmer-multiboxing\Autofarmer\obj\Debug\Autofarmer.Autofarm.resources
+C:\Users\fikri\Downloads\gtautofarmer-multiboxing\gtautofarmer-multiboxing\Autofarmer\obj\Debug\Autofarmer.Properties.Resources.resources
+C:\Users\fikri\Downloads\gtautofarmer-multiboxing\gtautofarmer-multiboxing\Autofarmer\obj\Debug\Autofarmer.csproj.GenerateResource.cache
+C:\Users\fikri\Downloads\gtautofarmer-multiboxing\gtautofarmer-multiboxing\Autofarmer\obj\Debug\Autofarmer.csproj.CoreCompileInputs.cache
+C:\Users\fikri\Downloads\gtautofarmer-multiboxing\gtautofarmer-multiboxing\Autofarmer\obj\Debug\Autofarmer.exe
+C:\Users\fikri\Downloads\gtautofarmer-multiboxing\gtautofarmer-multiboxing\Autofarmer\obj\Debug\Autofarmer.pdb
